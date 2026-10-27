@@ -1,4 +1,2 @@
-# Dokumenty Word (instrukcje, wzór, sprawozdania) i pliki tymczasowe Office
-*.docx
+# Pliki tymczasowe Office
 ~$*
-!Sprawozdanie*.docx
