@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="klasa_3" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="jade.Boot" />
+    <module name="jade1" />
+    <option name="PROGRAM_PARAMETERS" value="-gui agent3:klasa_3" />
+    <option name="VM_PARAMETERS" value="-Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
