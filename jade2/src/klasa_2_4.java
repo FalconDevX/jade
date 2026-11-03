@@ -87,7 +87,7 @@ public class klasa_2_4 extends Agent {
             }
             System.out.println("[" + czas() + " ms] zachowanie " + numer + ": " + tekst);
             try {
-                Thread.sleep(10000);
+                Thread.sleep(1000);
             } catch (InterruptedException e) {
                 Thread.currentThread().interrupt();
             }
